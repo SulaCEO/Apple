@@ -159,3 +159,5 @@ list.forEach((el, i)=>{
         el.classList.add('active');
     })
 })
+
+// finish
